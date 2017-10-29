@@ -36,46 +36,46 @@ h1 {
   padding: 2px;
   font-size: 1.3em;
   font-weight: bold;
-  color: #304f4f;
+  color: #40334d;
 }
 h2 {
   margin: 0.75em 1em 0.25em 0em;
   padding: 2px;
   font-size: 1.2em;
   font-weight: bold;
-  color: #304f4f;
+  color: #40334d;
 }
 h3 {
   margin: 0.5em 1em 0.25em 0em;
   padding: 2px;
   font-size: 1.1em;
   font-weight: bold;
-  color: #304f4f;
+  color: #40334d;
 }
 h4 {
   margin: 0.5em 1em 0.25em 0em;
   padding: 2px;
   font-size: 1.0em;
   font-weight: bold;
-  color: #304f4f;
+  color: #40334d;
 }
 /******************************************/
 header {
-  background: #91baba;
+  background: #b3a3c2;
   padding: 3px 1em;
   margin: 0;
-  color: #e0ebeb;
+  color: #40334d;
 }
 header h1 {
   margin: 0em;
   padding: 0px;
   font-size: 2em;
   font-weight: bold;
-  color: #304f4f;
+  color: #40334d;
 }
 /******************************************/
 nav {
-  background: #91baba;
+  background: #b3a3c2;
   padding: 3px 1em;
   margin: 0;
 }
@@ -88,24 +88,24 @@ nav ul {
 nav li {
   float: left;
   font-weight: bold;
-  border: 1px solid #91baba;
+  border: 1px solid #b3a3c2;
 }
 nav li a {
   display: block;
-  color: #eff5f5;
-  background-color: #304f4f;
+  color: #e6e0eb;
+  background-color: #41324e;
   text-align: center;
   padding: 0.5em 2em;
   text-decoration: none;
 }
 nav li a:hover {
-  color: #1d2f2f;
-  background-color: #eff5f5;
+  color: #41324e;
+  background-color: #e6e0eb;
   text-decoration: none;
 }
 /******************************************/
 aside {
-  background: #91baba;
+  background: #b3a3c2;
   width: 20%;
   float: right;
   padding: 0.25em;
@@ -126,8 +126,8 @@ main {
 main hr {
   margin: 0;
   padding: 0;
-  color: #304f4f;
-  background-color: #304f4f;
+  color: #40334d;
+  background-color: #40334d;
   height: 3px;
   width: 400px;
   text-align: left;
@@ -142,12 +142,12 @@ main p.hang {
   text-indent: -32px;
 }
 main .emph {
-  color: #304f4f;
+  color: #40334d;
   font-weight: bold;
   font-variant: small-caps;
 }
 main .name {
-  color: #304f4f;
+  color: #40334d;
   font-variant: small-caps;
 }
 td {
@@ -159,7 +159,7 @@ td {
   clear: left;
   padding-bottom: 15px;
   padding-top: 9px;
-  background-color: #d9e0d1;
+  background-color: #eddeed;
   border-top: 3px solid white;
   overflow: hidden;
 }
@@ -167,7 +167,7 @@ td {
   clear: left;
   padding-bottom: 15px;
   padding-top: 9px;
-  background-color: #d1e0e0;
+  background-color: #ccc2d6;
   border-top: 3px solid white;
   overflow: hidden;
 }
@@ -175,7 +175,7 @@ td {
   clear: left;
   padding-bottom: 15px;
   padding-top: 9px;
-  background-color: #d9d1e0;
+  background-color: #b3b8cc;
   border-top: 3px solid white;
   overflow: hidden;
 }
@@ -183,8 +183,8 @@ td {
   clear: left;
   padding-bottom: 15px;
   padding-top: 9px;
-  background-color: #588d8d;
-  color: #eff5f5;
+  background-color: #67507c;
+  color: #e6e0eb;
   font-weight: bold;
   border-top: 3px solid white;
   overflow: hidden;
@@ -281,7 +281,7 @@ footer {
   clear: both;
   margin: 0;
   padding: 0;
-  background: #91baba;
+  background: #b3a3c2;
   font-size: 0.8em;
   overflow: hidden;
 }
