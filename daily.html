@@ -7,7 +7,12 @@ days:
 ---
 
 <b>GTG</b> = <em>{{ site.book_required }}</em> {{ site.book_required_author }} <br>
-{% include   {{ problems.markdown }} %} <br><br>
+
+{% capture my_include %}{% include {{ problems.markdown }} %}{% endcapture %}
+    {{ my_include | markdownify }} 
+    
+<br><br>
+
 
 <b>ODSA</b> = <a href="{{ site.book_opt_1_link }}" target="_blank">{{ site.book_opt_1 }}</a> <br><br>
 
