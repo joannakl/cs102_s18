@@ -8,7 +8,7 @@ days:
 
 <b>GTG</b> = <em>{{ site.book_required }}</em> {{ site.book_required_author }} <br>
 
-{% capture my_include %}{% include {{ problems.markdown }} %}{% endcapture %}
+{% capture my_include %}{% include {{ "problems.markdown" }} %}{% endcapture %}
     {{ my_include | markdownify }} 
     
 <br><br>
