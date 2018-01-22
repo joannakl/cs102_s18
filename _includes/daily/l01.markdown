@@ -12,7 +12,8 @@ Monday, Jan. 22
 <p markdown="block">
 
 Introduction to the class: syllabus. <br>
-Review of advanced Java topics. <br><br>
+Review of advanced Java topics: definitions and examples of data structures and algorithms, 
+software development process.  <br><br>
 
 [Code conventions for cs102](notes/CodeConventions.pdf) <br><br>
 

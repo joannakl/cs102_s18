@@ -11,9 +11,14 @@ Tue, Jan. 23
     
 <div class="column_recitation">
 <p markdown="block">
+
+__Warm-up activity.__ - distributed on paper during the recitation. 
+
+<!-- 
         
 [__Warm-up activity.__](https://goo.gl/S7FYbq) 
 
+-->
 
 Once you complete the activity, download it in PDF format: 
 _File -> Download As ... -> PDF Document (pdf)_
