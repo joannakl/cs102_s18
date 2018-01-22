@@ -4,7 +4,7 @@
 <p markdown="block">
         
 Rec # 1 <br> 
-Tue, Sep. 5 (sec. 6)
+Tue, Jan. 23
         
 </p>          
 </div>
