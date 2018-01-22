@@ -1,5 +1,6 @@
 
 title: CSCI-UA 102 (Data Structures) 
+short_title: CS 102 
 description: "Course website for CSCI-UA 102 (Data Structures) course." 
 
 baseurl: "/cs102_s18" # the subpath of your site, e.g. /blog
