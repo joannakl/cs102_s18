@@ -37,6 +37,13 @@ Here are quick steps for uploading to Gradescope:
 (If you did not receive email from Gradescope with an invitation to join
 the class, or if you happened to delete that email, you can join the class 
 by creating an account and using __9WY62K__ as a class code.)
+
+
+[Submitting work on Gradescope](https://youtu.be/KMPoby5g_nE) 
+
+__Make sure that you add all of your group members to the submission on Gradescope__ - it is not enough to have their names in the pdf.
+
+
         
 
 </p>        
