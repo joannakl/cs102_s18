@@ -3,10 +3,10 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 1 <br> 
+Class #3 <br> 
 Monday, Jan. 29
 </p>
-</div>3
+</div>
 <div class="column_materials">
 <p markdown="block">
 
