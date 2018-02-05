@@ -10,10 +10,11 @@ Monday, Feb. 5
 <div class="column_materials">
 <p markdown="block">
 
-Review of advanced Java topics: inheritance, polymorphism continued.  <br><br>
-Finish with the code examples.
+Review of advanced Java topics: inheritance, polymorphism continued.  <br>
+Finish with the code examples.<br>
 
 List ADT. 
+[list lecture notes](notes/lecture02_Lists.pdf) 
 
 </p>
 </div>
@@ -21,8 +22,10 @@ List ADT.
 <div class="column_assign">
 <p markdown="block">
 
-Project 1, part 2: <br>
+Read chapter 7 (lightly) <br><br>
 
+
+Project 1, part 2: <br>
 
 - [project specification](hwk/proj1_2.pdf)
 - [complete data file](hwk/Baby_Names__Beginning_2007.csv) - this is a large file, make sure that you are testing your 
