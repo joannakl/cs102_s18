@@ -1,0 +1,24 @@
+
+<div class="recitation">
+<div class="column_date">
+<p markdown="block">
+        
+Rec # 4 <br> 
+Tue, Feb 13
+        
+</p>          
+</div>
+    
+<div class="column_recitation">
+<p markdown="block">
+
+<!--
+[ArrayList<E> - case study](https://docs.google.com/document/d/1rUy8rThU8nRmDRfWL2KpCoJFodczJ5hGWWpR1fuUMuM/edit?usp=sharing) 
+-->
+ArrayList<E> - case study. 
+
+
+</p>        
+</div>
+    
+</div>
