@@ -12,10 +12,7 @@ Tue, Feb 13
 <div class="column_recitation">
 <p markdown="block">
 
-<!--
 [ArrayList<E> - case study](https://docs.google.com/document/d/1rUy8rThU8nRmDRfWL2KpCoJFodczJ5hGWWpR1fuUMuM/edit?usp=sharing) 
--->
-ArrayList<E> - case study. 
 
 
 Download source code fore Java [OpenJDK 8](code/openjdk_8.zip). <br><br>

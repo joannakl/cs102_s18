@@ -1,0 +1,29 @@
+
+<div class="recitation">
+<div class="column_date">
+<p markdown="block">
+        
+Rec # 5 <br> 
+Wed, Feb 21
+        
+</p>          
+</div>
+    
+<div class="column_recitation">
+<p markdown="block">
+
+__Recitation during the regular lecture time.__ <br>
+
+Going over project 2. 
+
+<!--
+[Finding Code Responsible for Behavior](https://docs.google.com/document/d/14UNr3fvEQ-jRPKqFGYd303Jtv6yucry0hCTEpCuJ2j8/edit?usp=sharing) 
+-->
+Finding Code Responsible for Behavior
+
+Download source code fore Java [OpenJDK 8](code/openjdk_8.zip). <br><br>
+
+</p>        
+</div>
+    
+</div>
