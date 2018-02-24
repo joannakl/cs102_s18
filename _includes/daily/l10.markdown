@@ -25,7 +25,7 @@ the list. Other _flavors_ of linked lists.
 Project 2 (due March 3): <br>
 
 - [project specification](hwk/proj2.pdf)
-- [Tester.java](hwk/Tester,java) - simple tester class 
+- [Tester.java](hwk/Tester.java) - simple tester class 
 
 
 
