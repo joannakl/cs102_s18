@@ -14,14 +14,11 @@ Wed, Feb 21
 
 __Recitation during the regular lecture time.__ <br>
 
-Going over project 2. 
+Going over project 2. <br>
 
-<!--
-[Finding Code Responsible for Behavior](https://docs.google.com/document/d/14UNr3fvEQ-jRPKqFGYd303Jtv6yucry0hCTEpCuJ2j8/edit?usp=sharing) 
--->
-Finding Code Responsible for Behavior
 
-Download source code fore Java [OpenJDK 8](code/openjdk_8.zip). <br><br>
+[Finding Code Responsible for Behavior](https://docs.google.com/document/d/14UNr3fvEQ-jRPKqFGYd303Jtv6yucry0hCTEpCuJ2j8/edit?usp=sharing) - OPTIONAL, not submitted. 
+
 
 </p>        
 </div>

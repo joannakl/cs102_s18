@@ -12,7 +12,12 @@ Tue, Feb 27
 <div class="column_recitation">
 <p markdown="block">
 
+<!--
 
+[Magic of Recursion](https://docs.google.com/document/d/1rNpd6NC99h2MjUabLf_rn0skb89EKhr5JYzm9HB4bJQ/edit?usp=sharing) 
+
+-->
+Magic of Recursion 
 
 </p>        
 </div>
