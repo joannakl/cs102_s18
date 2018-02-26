@@ -1,0 +1,29 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+ <br> 
+Monday, Feb. 26
+</p>
+</div>
+<div class="column_materials">
+<p markdown="block">
+
+Q&amp;A about the project. 
+
+Starting with recursion. 
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Reading: chapter 5 (lightly on performance, we will come back to it after spring break). 
+
+</p>
+</div>
+
+</div>
