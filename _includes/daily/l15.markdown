@@ -4,20 +4,29 @@
 <p markdown="block">
 
  <br> 
-Class #12<br> 
-Monday, March 5
+Class #14<br> 
+Monday, March 9
 </p>
 </div>
 <div class="column_materials">
 <p markdown="block">
 
-Q&amp;A for the exam. 
+Finish revursion: generating sequences.
+
+Algorithmic performance analysis: how efficient is an algorithm.  
 
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
+
+
+
+Project 3 (due March 29): <br>
+
+- [project specification](hwk/proj3.pdf)
+
 
 
 </p>

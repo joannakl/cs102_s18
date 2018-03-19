@@ -12,7 +12,7 @@ Tue, March 6
 <div class="column_recitation">
 <p markdown="block">
 
-
+Review for the exam. 
 
 </p>        
 </div>
