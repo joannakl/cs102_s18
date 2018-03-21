@@ -3,8 +3,8 @@
 <div class="column_date">
 <p markdown="block">
         
-Rec # 7 <br> 
-Tue, March 6
+Rec # 8 <br> 
+Tue, March 20
         
 </p>          
 </div>
@@ -12,7 +12,9 @@ Tue, March 6
 <div class="column_recitation">
 <p markdown="block">
 
-Discussion of project 3 and exam 1. 
+Exam 1 and project 3 discussion. 
+
+
 
 
 </p>        

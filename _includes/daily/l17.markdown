@@ -11,12 +11,11 @@ Monday, March 19
 <div class="column_materials">
 <p markdown="block">
 
-Finish recursion: generating sequences.
+Algorithmic performance analysis: analyzing example algorithms.
 
-[Recursion lecture notes](notes/lecture03_Recursion.pdf)
+Stack ADT, array-based and reference-based implementation of stacks.   
 
-
-Algorithmic performance analysis: how efficient is an algorithm.  
+[Stacks/queues lecture notes](notes/lecture04_StacksQueues.pdf)
 
 </p>
 </div>
@@ -24,11 +23,6 @@ Algorithmic performance analysis: how efficient is an algorithm.
 <div class="column_assign">
 <p markdown="block">
 
-
-
-Project 3 (due March 29): <br>
-
-- [project specification](hwk/proj3.pdf)
 
 
 
