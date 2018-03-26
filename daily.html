@@ -1,33 +1,35 @@
 ---
-layout: default 
+layout: default
 title: Daily
-days: 
+days:
     - "l01"
     - "r1"
     - "l02"
     - "l03"
-    - "r2" 
+    - "r2"
     - "l04"
     - "l05"
-    - "r3" 
+    - "r3"
     - "l06"
     - "l07"
-    - "r4" 
+    - "r4"
     - "l08"
     - "l09"
     - "l10"
-    - "r5" 
+    - "r5"
     - "l11"
-    - "r6" 
+    - "r6"
     - "l12"
     - "l13"
-    - "r7" 
+    - "r7"
     - "l14"
     - "l15"
-    - "r8" 
+    - "r8"
     - "l16"
     - "l17"
-    
+    - "r9"
+    - "l18"
+
 ---
 
 <b>GTG</b> = <em>{{ site.book_required }}</em> {{ site.book_required_author }} <br>
@@ -46,21 +48,21 @@ days:
     <div class="column_date">
         Date
     </div>
-    
+
     <div class="column_materials">
-        Material Covered, Notes, Handouts and Links 
+        Material Covered, Notes, Handouts and Links
     </div>
-    
+
     <div class="column_assign">
         Readings, Assignments, Homework
     </div>
-</div>  
+</div>
 
 {% comment %}
 {% for i in page.days reversed %}
     {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
     {% include   {{ file_name }} %}
-     
+
 {% endfor %}
 
 {% endcomment %}
@@ -70,13 +72,9 @@ days:
     {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
     {% capture my_include %}{% include {{ file_name }} %}{% endcapture %}
     {{ my_include | markdownify }}
-     
+
 {% endfor %}
 
 
 <br>
 <br>
-        
-        
-        
-        

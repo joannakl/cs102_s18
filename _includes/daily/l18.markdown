@@ -4,16 +4,17 @@
 <p markdown="block">
 
  <br>
-Class #16<br>
-Monday, March 26
+Class #17<br>
+Wednesday, March 28
 </p>
 </div>
 <div class="column_materials">
 <p markdown="block">
 
-Stack ADT, array-based and reference-based implementation of stacks.   
 
-[Stacks/queues lecture notes](notes/lecture04_StacksQueues.pdf)
+Queue ADT, array-based and reference-based implementation of queues.   
+
+
 
 </p>
 </div>
