@@ -22,7 +22,7 @@ Queue ADT, array-based and reference-based implementation of queues.
 <div class="column_assign">
 <p markdown="block">
 
-
+Reading: chapter 8 (followed by chapter 11).
 
 
 </p>
