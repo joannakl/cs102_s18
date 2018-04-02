@@ -12,10 +12,9 @@ Tue, March 27
 <div class="column_recitation">
 <p markdown="block">
 
-Test driven development (TDD) and JUnit - activity.
-<!--
+
 [Test driven development (TDD) and JUnit - activity.](https://docs.google.com/document/d/13NMgTo9eo5FIjeQ5rtISwS04NdMOhbkt2lXBzIxKPLI/edit?usp=sharing)
--->
+
 
 
 [Number.java](code/Number.java)
