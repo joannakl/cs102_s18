@@ -1,0 +1,46 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+ <br>
+Class #26<br>
+Monday, May 7
+</p>
+</div>
+<div class="column_materials">
+<p markdown="block">
+
+Q &amp; A for the final exam.
+
+
+Topics covered:
+- advanced Java topics
+    - inheritance and polymorphism
+    - interfaces and abstract classes
+    - exception handling
+    - generics
+- lists (array based and reference based implementation)
+- stacks and queues (array based and reference based implementation)
+- algorithm analysis (big-O notation)
+- recursion
+- general trees
+- binary trees
+- priority queues and heaps
+- search trees
+    - binary search tree
+    - AVL trees
+- hash tables
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+</div>
