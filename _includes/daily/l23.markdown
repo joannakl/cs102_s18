@@ -27,7 +27,7 @@ Balanced binary trees: AVL.
 Project 5 (due April 28): <br>
 
 - [project specification](hwk/proj5.pdf)
-- [BST_recursive class](code/BST_recursive.java)
+- [BST_Recursive class](code/BST_Recursive.java)
 - [split_method.java](hwk/split_method.java) - source code for the method that
  parses lines from the csv file into individual fields   
 - [complete data file](hwk/Baby_Names__Beginning_2007.csv) - this is a large

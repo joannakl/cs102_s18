@@ -70,6 +70,7 @@ public class BST_Recursive<T extends Comparable<T>> {
 	public boolean remove(T target)
 	{
 		root = recRemove(target, root);
+		if (found) numOfElements--; 
 		return found;
 	}
 
