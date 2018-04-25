@@ -11,6 +11,10 @@ Monday, April 23
 <div class="column_materials">
 <p markdown="block">
 
+Review of quadratic sorts. Merge sort.
+
+
+[Sort - lecture notes](notes/lecture08_SearchingAndSorting.pdf)
 
 </p>
 </div>

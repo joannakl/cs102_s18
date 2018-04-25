@@ -11,6 +11,9 @@ Wednesday, April 18
 <div class="column_materials">
 <p markdown="block">
 
+Calculating heights and balance factor for the AVL tree. Node definition for
+an AVL tree. Performing rotations to restore balance.
+
 
 </p>
 </div>

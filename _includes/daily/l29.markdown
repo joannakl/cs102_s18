@@ -26,10 +26,11 @@ Topics covered:
 - recursion
 - general trees
 - binary trees
-- priority queues and heaps
 - search trees
     - binary search tree
     - AVL trees
+- sort algorithms: mergesort, quicksort
+- priority queues and heaps
 - hash tables
 
 </p>
