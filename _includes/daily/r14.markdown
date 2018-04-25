@@ -13,7 +13,9 @@ Tue, May 1
 <p markdown="block">
 
 __Problem sets__
-- (advanced Java topics)[problem_sets/problem_set_01.pdf], (solutions)[problem_set_01.pdf] 
+- [advanced Java topics](problem_sets/problem_set_01.pdf), [solutions](problem_set_01.pdf)
+- [recursion](problem_sets/problem_set_02.pdf), [solutions](problem_set_02.pdf)
+- [lists, stacks, queues](problem_sets/problem_set_03.pdf), [solutions](problem_set_03.pdf) 
 </p>        
 </div>
 
