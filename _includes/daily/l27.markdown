@@ -11,6 +11,11 @@ Monday, April 30
 <div class="column_materials">
 <p markdown="block">
 
+Priority queues - overview
+
+
+[Lecture notes](notes/lecture06_PriorityQueues.pdf)
+
 
 </p>
 </div>
