@@ -16,6 +16,9 @@ Review of quadratic sorts. Merge sort.
 
 [Sort - lecture notes](notes/lecture08_SearchingAndSorting.pdf)
 
+
+[Merge sort visualization](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Mergesort.html)
+
 </p>
 </div>
 

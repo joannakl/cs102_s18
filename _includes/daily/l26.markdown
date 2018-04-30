@@ -12,7 +12,10 @@ Wednesday, April 25
 <p markdown="block">
 
 
-Quicksort 
+Quicksort
+
+
+[Quicksort visualization](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Quicksort.html)
 
 </p>
 </div>
