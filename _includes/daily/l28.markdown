@@ -10,6 +10,13 @@ Wednesday, May 2
 </div>
 <div class="column_materials">
 <p markdown="block">
+Hash maps, has tables, how come they give us O(1) performance.
+General overview.
+
+
+
+[Lecture notes](notes/lecture9_HashTables.pdf)
+
 
 
 </p>
