@@ -37,7 +37,7 @@ the second week of classes in room {{site.tutor_location}}; here is their [sched
 
 <p class="hang" markdown="1"><span class="emph">How to get help?</span> 
 Ask questions on discussion forums (Piazza)! Ask questions in recitations and during lectures!
-Talk to us (we cannot help, unless we know there is an issue). 
+Talk to us (we cannot help unless we know there is an issue). 
 See the tutors and/or instructors during posted office hours! 
 Make sure you let us know as soon as you feel lost in the course. Do not wait till you 
 start getting failing grades because it might be too late by then. 
